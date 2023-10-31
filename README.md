@@ -15,6 +15,7 @@ a) **Ensure you have Java installed**: Make sure you have Java installed on your
 
 ```bash
 java -version
+
 If you see a version number, Java is installed. If not, you can download and install Java from Java's official website.
 
 b) **Compile the code** (if necessary): If the SnakeGame.java file is not pre-compiled, navigate to the directory where you downloaded the Snake Game and compile it using the javac command:
