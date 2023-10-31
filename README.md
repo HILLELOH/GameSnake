@@ -9,7 +9,8 @@ To play the Snake Game, follow these steps:
 1. **Download the Snake Game files**: You can download the Snake Game files from the GitHub repository or any other source where it's available. You can also clone the repository using Git. Here's an example command to clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SnakeGame.git
+   git clone [https://github.com/yourusername/SnakeGame.git](https://github.com/HILLELOH/GameSnake.git)
+   
 a) Ensure you have Java installed: Make sure you have Java installed on your computer. You can check if Java is installed by running the following command in your terminal:
 
 bash
